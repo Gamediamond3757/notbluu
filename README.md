@@ -1,8 +1,8 @@
 ### Hi there! I'm Mike  👋
 
 
-- 🔭 I’m currently working on OpenBypass
-- 🌱 I’m currently learning C# & JavaScript
+- 🔭 I’m a HS student interested in programming.
+- 🌱 I’m currently learning C# & JavaScript.
 - 📫 How to reach me: bluu#2284
 
 
